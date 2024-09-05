@@ -44,7 +44,7 @@ public class Lab {
         String buildingString = "";
 
        for (int i=start;i<end;i++){
-                   buildingString = buildingString + i;
+                   buildingString = buildingString + i + " ";
                  }
 
         return buildingString;
